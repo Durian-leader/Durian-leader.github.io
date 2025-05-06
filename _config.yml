@@ -21,4 +21,16 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-  
+
+# 导航菜单
+navigation:
+  - title: 主页
+    url: /
+  - title: 学术
+    url: /academic/
+  - title: 工作
+    url: /work/
+  - title: 生活
+    url: /life/
+  - title: 关于
+    url: /about/
