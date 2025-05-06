@@ -1,0 +1,24 @@
+title: 您的网站标题
+description: 您的网站描述
+
+# 使用GitHub Pages官方支持的主题
+theme: jekyll-theme-minimal
+
+# 其他官方支持的主题选项:
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-architect
+# theme: jekyll-theme-tactile
+# theme: jekyll-theme-hacker
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-time-machine
+
+# 添加数学公式支持
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+  
