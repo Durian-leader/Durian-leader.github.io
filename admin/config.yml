@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: 你的用户名/你的用户名.github.io
+  repo: durian-leader/durian-leader.github.io
   branch: main
 
 media_folder: "assets/images"
